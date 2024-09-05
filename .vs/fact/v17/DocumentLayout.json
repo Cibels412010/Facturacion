@@ -1,0 +1,328 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\programacion\\programacion ii\\ejercicios\\fact\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E890DF-64F3-4BC5-BB8C-A4D656E2BB06}|fact\\fact.csproj|c:\\users\\usuario\\onedrive\\escritorio\\programacion\\programacion ii\\ejercicios\\fact\\fact\\datos\\utils\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2E890DF-64F3-4BC5-BB8C-A4D656E2BB06}|fact\\fact.csproj|solutionrelative:fact\\datos\\utils\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E890DF-64F3-4BC5-BB8C-A4D656E2BB06}|fact\\fact.csproj|c:\\users\\usuario\\onedrive\\escritorio\\programacion\\programacion ii\\ejercicios\\fact\\fact\\testing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2E890DF-64F3-4BC5-BB8C-A4D656E2BB06}|fact\\fact.csproj|solutionrelative:fact\\testing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E890DF-64F3-4BC5-BB8C-A4D656E2BB06}|fact\\fact.csproj|c:\\users\\usuario\\onedrive\\escritorio\\programacion\\programacion ii\\ejercicios\\fact\\fact\\datos\\repository\\implementation\\articulorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2E890DF-64F3-4BC5-BB8C-A4D656E2BB06}|fact\\fact.csproj|solutionrelative:fact\\datos\\repository\\implementation\\articulorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E890DF-64F3-4BC5-BB8C-A4D656E2BB06}|fact\\fact.csproj|c:\\users\\usuario\\onedrive\\escritorio\\programacion\\programacion ii\\ejercicios\\fact\\fact\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{B2E890DF-64F3-4BC5-BB8C-A4D656E2BB06}|fact\\fact.csproj|solutionrelative:fact\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E890DF-64F3-4BC5-BB8C-A4D656E2BB06}|fact\\fact.csproj|c:\\users\\usuario\\onedrive\\escritorio\\programacion\\programacion ii\\ejercicios\\fact\\fact\\fact.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{B2E890DF-64F3-4BC5-BB8C-A4D656E2BB06}|fact\\fact.csproj|solutionrelative:fact\\fact.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E890DF-64F3-4BC5-BB8C-A4D656E2BB06}|fact\\fact.csproj|c:\\users\\usuario\\onedrive\\escritorio\\programacion\\programacion ii\\ejercicios\\fact\\fact\\datos\\repository\\contracts\\iarticulorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2E890DF-64F3-4BC5-BB8C-A4D656E2BB06}|fact\\fact.csproj|solutionrelative:fact\\datos\\repository\\contracts\\iarticulorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E890DF-64F3-4BC5-BB8C-A4D656E2BB06}|fact\\fact.csproj|c:\\users\\usuario\\onedrive\\escritorio\\programacion\\programacion ii\\ejercicios\\fact\\fact\\datos\\repository\\contracts\\idetallerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2E890DF-64F3-4BC5-BB8C-A4D656E2BB06}|fact\\fact.csproj|solutionrelative:fact\\datos\\repository\\contracts\\idetallerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E890DF-64F3-4BC5-BB8C-A4D656E2BB06}|fact\\fact.csproj|c:\\users\\usuario\\onedrive\\escritorio\\programacion\\programacion ii\\ejercicios\\fact\\fact\\datos\\repository\\contracts\\ifacturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2E890DF-64F3-4BC5-BB8C-A4D656E2BB06}|fact\\fact.csproj|solutionrelative:fact\\datos\\repository\\contracts\\ifacturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E890DF-64F3-4BC5-BB8C-A4D656E2BB06}|fact\\fact.csproj|c:\\users\\usuario\\onedrive\\escritorio\\programacion\\programacion ii\\ejercicios\\fact\\fact\\datos\\repository\\contracts\\iformapagorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2E890DF-64F3-4BC5-BB8C-A4D656E2BB06}|fact\\fact.csproj|solutionrelative:fact\\datos\\repository\\contracts\\iformapagorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E890DF-64F3-4BC5-BB8C-A4D656E2BB06}|fact\\fact.csproj|c:\\users\\usuario\\onedrive\\escritorio\\programacion\\programacion ii\\ejercicios\\fact\\fact\\datos\\repository\\implementation\\detallerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2E890DF-64F3-4BC5-BB8C-A4D656E2BB06}|fact\\fact.csproj|solutionrelative:fact\\datos\\repository\\implementation\\detallerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E890DF-64F3-4BC5-BB8C-A4D656E2BB06}|fact\\fact.csproj|c:\\users\\usuario\\onedrive\\escritorio\\programacion\\programacion ii\\ejercicios\\fact\\fact\\datos\\repository\\implementation\\facturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2E890DF-64F3-4BC5-BB8C-A4D656E2BB06}|fact\\fact.csproj|solutionrelative:fact\\datos\\repository\\implementation\\facturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E890DF-64F3-4BC5-BB8C-A4D656E2BB06}|fact\\fact.csproj|c:\\users\\usuario\\onedrive\\escritorio\\programacion\\programacion ii\\ejercicios\\fact\\fact\\datos\\repository\\implementation\\formapagorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2E890DF-64F3-4BC5-BB8C-A4D656E2BB06}|fact\\fact.csproj|solutionrelative:fact\\datos\\repository\\implementation\\formapagorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E890DF-64F3-4BC5-BB8C-A4D656E2BB06}|fact\\fact.csproj|c:\\users\\usuario\\onedrive\\escritorio\\programacion\\programacion ii\\ejercicios\\fact\\fact\\datos\\utils\\parametersql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2E890DF-64F3-4BC5-BB8C-A4D656E2BB06}|fact\\fact.csproj|solutionrelative:fact\\datos\\utils\\parametersql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E890DF-64F3-4BC5-BB8C-A4D656E2BB06}|fact\\fact.csproj|c:\\users\\usuario\\onedrive\\escritorio\\programacion\\programacion ii\\ejercicios\\fact\\fact\\dominio\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2E890DF-64F3-4BC5-BB8C-A4D656E2BB06}|fact\\fact.csproj|solutionrelative:fact\\dominio\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E890DF-64F3-4BC5-BB8C-A4D656E2BB06}|fact\\fact.csproj|c:\\users\\usuario\\onedrive\\escritorio\\programacion\\programacion ii\\ejercicios\\fact\\fact\\dominio\\detallefactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2E890DF-64F3-4BC5-BB8C-A4D656E2BB06}|fact\\fact.csproj|solutionrelative:fact\\dominio\\detallefactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E890DF-64F3-4BC5-BB8C-A4D656E2BB06}|fact\\fact.csproj|c:\\users\\usuario\\onedrive\\escritorio\\programacion\\programacion ii\\ejercicios\\fact\\fact\\dominio\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2E890DF-64F3-4BC5-BB8C-A4D656E2BB06}|fact\\fact.csproj|solutionrelative:fact\\dominio\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E890DF-64F3-4BC5-BB8C-A4D656E2BB06}|fact\\fact.csproj|c:\\users\\usuario\\onedrive\\escritorio\\programacion\\programacion ii\\ejercicios\\fact\\fact\\dominio\\formapago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2E890DF-64F3-4BC5-BB8C-A4D656E2BB06}|fact\\fact.csproj|solutionrelative:fact\\dominio\\formapago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E890DF-64F3-4BC5-BB8C-A4D656E2BB06}|fact\\fact.csproj|c:\\users\\usuario\\onedrive\\escritorio\\programacion\\programacion ii\\ejercicios\\fact\\fact\\servicios\\tiendamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2E890DF-64F3-4BC5-BB8C-A4D656E2BB06}|fact\\fact.csproj|solutionrelative:fact\\servicios\\tiendamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\programacion\\programacion ii\\ejercicios\\fact\\fact\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "fact\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\programacion\\programacion ii\\ejercicios\\fact\\fact\\Properties\\Resources.resx",
+              "RelativeToolTip": "fact\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-09-05T18:42:08.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "fact",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\programacion\\programacion ii\\ejercicios\\fact\\fact\\fact.csproj",
+              "RelativeDocumentMoniker": "fact\\fact.csproj",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\programacion\\programacion ii\\ejercicios\\fact\\fact\\fact.csproj",
+              "RelativeToolTip": "fact\\fact.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-05T18:42:05.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IArticuloRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\programacion\\programacion ii\\ejercicios\\fact\\fact\\Datos\\Repository\\Contracts\\IArticuloRepository.cs",
+              "RelativeDocumentMoniker": "fact\\Datos\\Repository\\Contracts\\IArticuloRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\programacion\\programacion ii\\ejercicios\\fact\\fact\\Datos\\Repository\\Contracts\\IArticuloRepository.cs",
+              "RelativeToolTip": "fact\\Datos\\Repository\\Contracts\\IArticuloRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T18:41:19.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\programacion\\programacion ii\\ejercicios\\fact\\fact\\Datos\\Utils\\DataHelper.cs",
+              "RelativeDocumentMoniker": "fact\\Datos\\Utils\\DataHelper.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\programacion\\programacion ii\\ejercicios\\fact\\fact\\Datos\\Utils\\DataHelper.cs",
+              "RelativeToolTip": "fact\\Datos\\Utils\\DataHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T18:40:29.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArticuloRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\programacion\\programacion ii\\ejercicios\\fact\\fact\\Datos\\Repository\\Implementation\\ArticuloRepository.cs",
+              "RelativeDocumentMoniker": "fact\\Datos\\Repository\\Implementation\\ArticuloRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\programacion\\programacion ii\\ejercicios\\fact\\fact\\Datos\\Repository\\Implementation\\ArticuloRepository.cs",
+              "RelativeToolTip": "fact\\Datos\\Repository\\Implementation\\ArticuloRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T18:40:57.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\programacion\\programacion ii\\ejercicios\\fact\\fact\\Testing\\Program.cs",
+              "RelativeDocumentMoniker": "fact\\Testing\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\programacion\\programacion ii\\ejercicios\\fact\\fact\\Testing\\Program.cs",
+              "RelativeToolTip": "fact\\Testing\\Program.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAFMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T18:38:37.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IDetalleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\programacion\\programacion ii\\ejercicios\\fact\\fact\\Datos\\Repository\\Contracts\\IDetalleRepository.cs",
+              "RelativeDocumentMoniker": "fact\\Datos\\Repository\\Contracts\\IDetalleRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\programacion\\programacion ii\\ejercicios\\fact\\fact\\Datos\\Repository\\Contracts\\IDetalleRepository.cs",
+              "RelativeToolTip": "fact\\Datos\\Repository\\Contracts\\IDetalleRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T18:41:13.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IFacturaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\programacion\\programacion ii\\ejercicios\\fact\\fact\\Datos\\Repository\\Contracts\\IFacturaRepository.cs",
+              "RelativeDocumentMoniker": "fact\\Datos\\Repository\\Contracts\\IFacturaRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\programacion\\programacion ii\\ejercicios\\fact\\fact\\Datos\\Repository\\Contracts\\IFacturaRepository.cs",
+              "RelativeToolTip": "fact\\Datos\\Repository\\Contracts\\IFacturaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T18:41:10.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IFormaPagoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\programacion\\programacion ii\\ejercicios\\fact\\fact\\Datos\\Repository\\Contracts\\IFormaPagoRepository.cs",
+              "RelativeDocumentMoniker": "fact\\Datos\\Repository\\Contracts\\IFormaPagoRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\programacion\\programacion ii\\ejercicios\\fact\\fact\\Datos\\Repository\\Contracts\\IFormaPagoRepository.cs",
+              "RelativeToolTip": "fact\\Datos\\Repository\\Contracts\\IFormaPagoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T18:41:04.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DetalleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\programacion\\programacion ii\\ejercicios\\fact\\fact\\Datos\\Repository\\Implementation\\DetalleRepository.cs",
+              "RelativeDocumentMoniker": "fact\\Datos\\Repository\\Implementation\\DetalleRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\programacion\\programacion ii\\ejercicios\\fact\\fact\\Datos\\Repository\\Implementation\\DetalleRepository.cs",
+              "RelativeToolTip": "fact\\Datos\\Repository\\Implementation\\DetalleRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T18:40:52.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FacturaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\programacion\\programacion ii\\ejercicios\\fact\\fact\\Datos\\Repository\\Implementation\\FacturaRepository.cs",
+              "RelativeDocumentMoniker": "fact\\Datos\\Repository\\Implementation\\FacturaRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\programacion\\programacion ii\\ejercicios\\fact\\fact\\Datos\\Repository\\Implementation\\FacturaRepository.cs",
+              "RelativeToolTip": "fact\\Datos\\Repository\\Implementation\\FacturaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T18:40:44.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormaPagoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\programacion\\programacion ii\\ejercicios\\fact\\fact\\Datos\\Repository\\Implementation\\FormaPagoRepository.cs",
+              "RelativeDocumentMoniker": "fact\\Datos\\Repository\\Implementation\\FormaPagoRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\programacion\\programacion ii\\ejercicios\\fact\\fact\\Datos\\Repository\\Implementation\\FormaPagoRepository.cs",
+              "RelativeToolTip": "fact\\Datos\\Repository\\Implementation\\FormaPagoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T18:40:34.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ParameterSQL.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\programacion\\programacion ii\\ejercicios\\fact\\fact\\Datos\\Utils\\ParameterSQL.cs",
+              "RelativeDocumentMoniker": "fact\\Datos\\Utils\\ParameterSQL.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\programacion\\programacion ii\\ejercicios\\fact\\fact\\Datos\\Utils\\ParameterSQL.cs",
+              "RelativeToolTip": "fact\\Datos\\Utils\\ParameterSQL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T18:40:26.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Articulo.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\programacion\\programacion ii\\ejercicios\\fact\\fact\\Dominio\\Articulo.cs",
+              "RelativeDocumentMoniker": "fact\\Dominio\\Articulo.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\programacion\\programacion ii\\ejercicios\\fact\\fact\\Dominio\\Articulo.cs",
+              "RelativeToolTip": "fact\\Dominio\\Articulo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T18:40:20.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DetalleFactura.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\programacion\\programacion ii\\ejercicios\\fact\\fact\\Dominio\\DetalleFactura.cs",
+              "RelativeDocumentMoniker": "fact\\Dominio\\DetalleFactura.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\programacion\\programacion ii\\ejercicios\\fact\\fact\\Dominio\\DetalleFactura.cs",
+              "RelativeToolTip": "fact\\Dominio\\DetalleFactura.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T18:40:18.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Factura.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\programacion\\programacion ii\\ejercicios\\fact\\fact\\Dominio\\Factura.cs",
+              "RelativeDocumentMoniker": "fact\\Dominio\\Factura.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\programacion\\programacion ii\\ejercicios\\fact\\fact\\Dominio\\Factura.cs",
+              "RelativeToolTip": "fact\\Dominio\\Factura.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T18:40:15.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormaPago.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\programacion\\programacion ii\\ejercicios\\fact\\fact\\Dominio\\FormaPago.cs",
+              "RelativeDocumentMoniker": "fact\\Dominio\\FormaPago.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\programacion\\programacion ii\\ejercicios\\fact\\fact\\Dominio\\FormaPago.cs",
+              "RelativeToolTip": "fact\\Dominio\\FormaPago.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T18:40:10.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TiendaManager.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\programacion\\programacion ii\\ejercicios\\fact\\fact\\Servicios\\TiendaManager.cs",
+              "RelativeDocumentMoniker": "fact\\Servicios\\TiendaManager.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\programacion\\programacion ii\\ejercicios\\fact\\fact\\Servicios\\TiendaManager.cs",
+              "RelativeToolTip": "fact\\Servicios\\TiendaManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T18:39:54.993Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
